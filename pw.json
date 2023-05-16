@@ -82,5 +82,20 @@
     "lic":"Pixabay",
     "pg":"https://pixabay.com/illustrations/ai-generated-flowers-colors-nature-7767510/",
     "tags": ["Ai Generated", "Flowers", "Colors", "Nature"]
-  }
+  },
+  {
+    "thumb": "https://cdn.pixabay.com/photo/2023/03/05/15/35/ai-generated-7831688_1280.jpg",
+    "full":"https://cdn.pixabay.com/photo/2023/03/05/15/35/ai-generated-7831688_1280.jpg",
+    "lic":"Pixabay",
+    "pg":"https://pixabay.com/illustrations/ai-generated-waterfall-sunrise-7831688/",
+    "tags": ["Ai Generated", " Waterfall", "Sunrise", "Nature", "morning"]
+  },
+   {
+    "thumb": "https://cdn.pixabay.com/photo/2023/01/03/22/43/ai-generated-7695512_1280.jpg",
+    "full":"https://cdn.pixabay.com/photo/2023/01/03/22/43/ai-generated-7695512_1280.jpg",
+    "lic":"Pixabay",
+    "pg":"https://pixabay.com/illustrations/ai-generated-jungle-forest-7695512/",
+    "tags": ["Ai Generated", "Nature", "Jungle", "Forest", "Tree" "House"]
+  },
+  
 ]
